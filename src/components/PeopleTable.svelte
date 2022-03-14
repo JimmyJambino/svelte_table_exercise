@@ -1,5 +1,4 @@
 <script>
-    //const {faker} = require('@faker-js/faker')
     import TableRow from "./TableRow.svelte"
     export let persons = [
     ]    
